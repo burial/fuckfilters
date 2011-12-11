@@ -1,0 +1,7 @@
+## Interface: 40300
+## Title: fuckfilters
+## Notes: ensures the mother-fucking mature language filter stays off
+## Author: burial
+## Version: 1
+
+main.lua
